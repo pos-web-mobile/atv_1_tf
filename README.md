@@ -14,9 +14,9 @@
 
 ---
 
-## 🔗 Repositório
+## 🔗 Página Publicada
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Repositório-black?style=for-the-badge&logo=github)](https://github.com/pos-web-mobile/atv_1_tf)
+[Link da Página](https://pos-web-mobile.github.io/atv_1_tf/) 
 
 ---
 
